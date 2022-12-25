@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.imgur.com/mVQrw89.png)
+![Portfolio Website](https://i.imgur.com/xKqhUOd.png)
